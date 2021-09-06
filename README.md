@@ -45,13 +45,13 @@ Please fork but don't import code 🥺 And also give a star
 
 ###  GET STRING SESSION FROM REPL RUN
 
- [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@PrinceYT/#main.py)
+ [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@PrinceYT/SessionGenerator#main.py)
 
 ### Deploy to VPS 🏃
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/stark-Prince/PrinceXmusic
-$ cd VCsMusicBot
+$ cd PrinceXmusic
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -r requirements.txt

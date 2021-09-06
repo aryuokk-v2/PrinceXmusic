@@ -1,6 +1,6 @@
 {
   "name": "PrinceXmusic",
-  "logo": "",
+  "logo": "https://telegra.ph/file/2495bedef0185b65701ca.png",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/stark-Prince/PrinceXmusic",

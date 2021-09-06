@@ -30,7 +30,7 @@ def _start(client, message):
                         "💬 Support", url=f"https://t.me/{SUPPORT_GROUP}")
                 ],[
                     InlineKeyboardButton(
-                        "🔰Join Our Channel🔰", url=f"https://t.me/roBots_Hub")
+                        "Dev", url=f"https://t.me/its_Prince")
                 ]
             ]
         ),

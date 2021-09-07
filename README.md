@@ -39,7 +39,7 @@ Please fork but don't import code 🥺 And also give a star
 
 ### Deploy To Heroku 📡</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/stark-Prince/PrinceXmusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/stark-Prince/PrinceXmusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 
 

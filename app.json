@@ -51,9 +51,9 @@
       "value": ""
     },    
     "BG_IMAGE": {
-      "description": "BG image of bot (Use transparent one) [IGNORE].",
+      "description": "BG image of bot use transparent",
       "required": false,
-      "value": "https://telegra.ph/file/21948d215d0cf19c7c107.jpg"
+      "value": "https://telegra.ph/file/e447cc7fcb5fbfee866bf.png"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",

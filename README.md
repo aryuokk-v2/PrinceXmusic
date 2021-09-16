@@ -136,4 +136,3 @@ If you donlt like to play in linked channel:
 ### Credits
 #### Special Credits
 - [Aryan](https://github.com/stark-Prince): PrinceXmusic Developer
-- [Rojserbest](http://github.com/rojserbest): Callsmusic Developer

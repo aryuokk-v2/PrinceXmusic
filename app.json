@@ -15,7 +15,7 @@
   ],        
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string",
+      "description": "Pyrogram string session. Get it by running [https://replit.com/@PrinceYT/SessionGenerator#main.py]",
       "required": true
     },
     "BOT_TOKEN": {

@@ -136,3 +136,4 @@ If you donlt like to play in linked channel:
 ### Credits
 #### Special Credits
 - [Aryan](https://github.com/stark-Prince): PrinceXmusic Developer
+- [DaisyX](https://github.com/TeamDaisyX/DaisyXMusic): Source code owner

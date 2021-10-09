@@ -5,7 +5,6 @@ import uuid
 
 import psutil
 from pyrogram import Client, filters
-from PrinceXmusic.config import PrinceX
 from PrinceXmusic.helpers.decorators import authorized_users_only, humanbytes
 from PrinceXmusic.helpers.filters import command
 

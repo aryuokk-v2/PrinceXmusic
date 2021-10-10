@@ -24,7 +24,7 @@
     },
     "BOT_USERNAME": {
       "description": "Your bot's username without @",
-      "required": true
+      "required": true,
       "value": "PrinceX_Musicbot"
     },
     "BOT_NAME": {
@@ -44,7 +44,7 @@
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
-      "required": true
+      "required": true,
       "value": "PrinceX_MusicAssistant"
     },
     "ARQ_API_KEY": {
@@ -77,7 +77,7 @@
     },
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
-      "required": true
+      "required": true,
       "value": "1994755645"
     },
     "DURATION_LIMIT": {

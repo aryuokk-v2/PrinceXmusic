@@ -101,7 +101,6 @@ $ python3 -m PrinceXmusic
 - `/userbotleave` - remove assistant from your chat
 - `/reload` - Refresh admin list
 - `/musicplayer [on/off]` - Enable/Disable Music Player
-- `/sysinfo` - get the information about the system where you music bot is hosted
 
 ### Channel Music Play 👨‍🎤
 *For linked group admins only:*
@@ -130,6 +129,7 @@ If you donlt like to play in linked channel:
 - `/userbotleaveall` - remove assistant from all chats
 - `/gcast <reply to message>` - globally brodcast replied message to all chats
 - `/pmpermit [on/off]` - enable/disable pmpermit message
+- `/sysinfo` - get the information about the system where you music bot is hosted
 
 ### PMpermit
 - `.a` - approove someone to pm you

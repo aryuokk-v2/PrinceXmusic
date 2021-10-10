@@ -88,6 +88,8 @@ $ python3 -m PrinceXmusic
 - `/deezer <song name>` - download songs you want quickly via deezer
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
+- `/truth` - sends you a truth
+- `/dare` - sends you a dare
 
 ### Admins only 🏅
 - `/player` - open music player settings panel
@@ -99,6 +101,7 @@ $ python3 -m PrinceXmusic
 - `/userbotleave` - remove assistant from your chat
 - `/reload` - Refresh admin list
 - `/musicplayer [on/off]` - Enable/Disable Music Player
+- `/sysinfo` - get the information about the system where you music bot is hosted
 
 ### Channel Music Play 👨‍🎤
 *For linked group admins only:*

@@ -2,7 +2,7 @@ import requests
 from pyrogram import Client
 
 from PrinceXmusic.config import BOT_USERNAME
-from helpers.filters import command
+from PrinceXmusic.helpers.filters import command
 
 @Client.on_message(command(["truth", f"truth@{BOT_USERNAME}"]))
 async def truth(_, message):

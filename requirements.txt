@@ -17,3 +17,14 @@ future
 psutil
 wget
 tswift
+pymoe
+requests_html
+ffmpeg
+pykeyboard
+psycopg2
+psycopg2-binary
+google_trans_new
+emoji
+gpytranslate
+googletrans 
+coffeehouse

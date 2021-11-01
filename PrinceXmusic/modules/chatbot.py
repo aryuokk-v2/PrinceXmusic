@@ -224,7 +224,7 @@ async def papiya(client, message):
         rm = msg
         lan = translator.detect(rm)
     onik = rm
-    if not "en" in lan and not lan == "":
+    if not "en" in lan and not lan == "en":
         onik = await translator.translate(onik, targetlang="en")
     querystring = {
         "bid": "159762",
